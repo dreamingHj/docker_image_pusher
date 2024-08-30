@@ -3,3 +3,5 @@ nginx
 --platform=linux/arm64 xiaoyaliu/alist
 node:20-alpine
 kubesphere/builder-nodejs:v3.2.0
+guacamole/guacd:latest
+guacamole/guacamole:latest
