@@ -5,3 +5,4 @@ node:20-alpine
 kubesphere/builder-nodejs:v3.2.0
 guacamole/guacd:latest
 guacamole/guacamole:latest
+rastasheep/ubuntu-sshd:20.04
