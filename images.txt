@@ -6,3 +6,4 @@ kubesphere/builder-nodejs:v3.2.0
 guacamole/guacd:latest
 guacamole/guacamole:latest
 ubuntu:22.04
+quay.io/samblade/virtvnc:v0.1
