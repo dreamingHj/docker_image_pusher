@@ -7,3 +7,4 @@ guacamole/guacd:latest
 guacamole/guacamole:latest
 ubuntu:22.04
 quay.io/samblade/virtvnc:v0.1
+dinkydocker/dinky-standalone-server:1.1.0-flink1.17
