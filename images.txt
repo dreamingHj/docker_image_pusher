@@ -1,1 +1,5 @@
-dinkydocker/dinky-standalone-server:1.1.0-flink1.17
+maxkeytop/maxkey-frontend:4.1.2
+maxkeytop/maxkey:4.1.2
+maxkeytop/maxkey-mgt:4.1.2
+maxkeytop/maxkey-mgt-frontend:4.1.2
+nginx:latest
