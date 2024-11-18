@@ -1,5 +1,1 @@
-maxkeytop/maxkey-frontend:4.1.2
-maxkeytop/maxkey:4.1.2
-maxkeytop/maxkey-mgt:4.1.2
-maxkeytop/maxkey-mgt-frontend:4.1.2
-nginx:latest
+mysql:8.0.28
