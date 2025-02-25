@@ -1,1 +1,1 @@
-quay.io/kubevirt/virt-exportserver:v1.2.2
+ollama/ollama
