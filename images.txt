@@ -1,1 +1,1 @@
-ollama/ollama
+docker.io/kubeflowkatib/suggestion-hyperopt:v15.0
