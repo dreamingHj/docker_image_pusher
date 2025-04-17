@@ -1,1 +1,2 @@
-docker.io/kubeflowkatib/suggestion-hyperopt:v0.15.0
+docker pull hugegraph/hugegraph:v0.12.0
+docker pull hugegraph/hugegraph-studio:v0.12.0
