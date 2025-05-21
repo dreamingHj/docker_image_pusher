@@ -1,1 +1,4 @@
-ubuntu:xenial
+redis:7.2.1
+nacos/nacos-server:v3.0.0
+nginx:latest
+mysql:8.0
